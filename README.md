@@ -3,6 +3,8 @@ ASUS RT-N600 Custom Firmware (Padavan Base)
 
 This is custom firmware (Padavan) that has been built for the Asus RT-N600 Dual band AC Router.
 
+Trying to update the stock firmware through the ASUS web GUI will NOT WORK!
+
 Instructions:
 1) Select the version you want (I will build more with varying options shortly)
 
@@ -36,7 +38,7 @@ RT-N600_3.4.3.9-099-B.trx: (Coming Soon)
    
 4) Plug in your ethernet to port 1 of the LAN on the router
 
-5) Load up the recovery software with the selected firmware file but dont press "Start Recovery"!
+5) Load up the recovery software with the selected firmware file from above, but dont press "Start Recovery"!
 
 6) Plug in the router to power WHILE HOLDING the reset button in. While CONTINUING to hold the button, select "Start Recovery"
    Continue to hold the reset button in until it finishes and verifies!

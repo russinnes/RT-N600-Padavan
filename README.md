@@ -6,7 +6,8 @@ This is custom firmware (Padavan) that ha been built for the Asus RT-N600 Dual b
 Instructions:
 1) Select the version you want (I will build more with varying options shortly)
 
-RT-N600_3.4.3.9-099-A.trx:
+[RT-N600_3.4.3.9-099-A.trx:
+
   IPv6
   USB
   NTFS/FAT/EXT2/EXT3/FUSE
@@ -18,6 +19,7 @@ RT-N600_3.4.3.9-099-A.trx:
   
   
 RT-N600_3.4.3.9-099-B.trx: (Coming Soon)
+
   All as Above Plus:
   Transmission
   Aria/2

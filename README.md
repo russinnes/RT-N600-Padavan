@@ -4,6 +4,8 @@ ASUS RT-N600 Router Firmware
 This is custom firmware (Padavan) that has been built for the Asus RT-N600 Dual band AC Router.
 
 Trying to update the stock firmware through the ASUS web GUI will NOT WORK!
+For the initial upgrade from the stock firmware:
+
 
 ###Instructions:###
 1) Select the version you want (likely BASE)

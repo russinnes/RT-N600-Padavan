@@ -5,7 +5,7 @@ This is custom firmware (Padavan) that has been built for the Asus RT-N600 Dual 
 
 Trying to update the stock firmware through the ASUS web GUI will NOT WORK!
 
-Instructions:
+###Instructions:###
 1) Select the version you want (likely BASE)
 2) -Download the Asus recovery firmware (windows) tool from http://dlcdnet.asus.com/pub/ASUS/LiveUpdate/Release/Wireless/Rescue.zip
    -Also works on a Windows VM with a bridged network adapter to the ethernet port with a manual IP)
@@ -25,26 +25,26 @@ Instructions:
    
  Source creds: https://bitbucket.org/padavan/rt-n56u/
  
-*-BASE.trx:
+* -BASE.trx:
 
-  *USB
-  *NTFS/FAT/EXT2/EXT3/FUSE
-  *USB Audio
-  *Parted
-  *OpenVPN
-  *SSH
+  * USB
+  * NTFS/FAT/EXT2/EXT3/FUSE
+  * USB Audio
+  * Parted
+  * OpenVPN
+  * SSH
   
   
-*-FULL.trx:
+* -FULL.trx:
 
-  *+Transmission
-  *+Aria/2
-  *+FFMpeg
-  *+Firefly
-  *+Minidnla
-  *+L2TP
-  *+SFtp
-  *+Usb Printing
+  * +Transmission
+  * +Aria/2
+  * +FFMpeg
+  * +Firefly
+  * +Minidnla
+  * +L2TP
+  * +SFtp
+  * +Usb Printing
   
 
   

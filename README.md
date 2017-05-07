@@ -33,6 +33,7 @@ Trying to update the stock firmware through the ASUS web GUI will NOT WORK!
   * Parted
   * OpenVPN
   * SSH
+  * USB Serial Driver
   
   
 * -FULL.trx:

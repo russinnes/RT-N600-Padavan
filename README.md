@@ -24,8 +24,6 @@ For the initial upgrade from the stock firmware:
 
 8) Power off and on the router again. Voila. Set everything back to DHCP and youre good to go. L:admin P:admin
 
-   
- Source creds: https://bitbucket.org/padavan/rt-n56u/
  
 * -BASE.trx:
 

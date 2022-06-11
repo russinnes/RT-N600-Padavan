@@ -3,6 +3,7 @@ ASUS RT-N600 Router Firmware
 
 
 <<<<<<< Update For people looking for alternative firmware on this box >>>>>>>
+
 OpenWRT 21.02.3 squashfs (sysupgrade) for the Asus RT-N12 VP B1 is working on this box. No 5GHz yet, but I'm still playing with it. If someone wants more functionality and expandability (openwrt) vs padavan.
 Note: I had to use their firmware rescue utility to flash the openwrt binary.
 

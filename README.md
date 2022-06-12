@@ -17,6 +17,8 @@ OpenWRT 21.02.3 For the Totolink LR_1200 also works with dual band WIFI with som
 -No LED's (yet)
 -USB Works
 
+Based on [greater] functionality of OpenWRT, I will work on compiling a firmware binary specific to this device now, with fixes for the LED's.
+OpenWRT, while more technical to configure for the user, provides more functionality than Padavan. 
 
 ****<<<<<>>>>>****
 

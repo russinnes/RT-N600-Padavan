@@ -4,13 +4,18 @@ ASUS RT-N600 Router Firmware
 
 <<<<<<< Update For people looking for alternative firmware on this box >>>>>>>
 
-OpenWRT 21.02.3 squashfs (sysupgrade) for the Asus RT-N12 VP B1 is working on this box. No 5GHz yet, but I'm still playing with it. If someone wants more functionality and expandability (openwrt) vs padavan.
-Note: I had to use their firmware rescue utility to flash the openwrt binary.
+OpenWRT 21.02.3 squashfs (sysupgrade) for the Asus RT-N12 VP B1 is working on this box. No 5GHz yet, but I'm still playing with it. 
+If someone wants more functionality and expandability (openwrt) vs padavan. 
+LAN1 and WAN ports must be swapped (VLAN1 <--> VLAN2) in switch config in LuCi. 
+No USB.
+
+Note: I had to use their firmware rescue utility to flash the openwrt binary initially. Google Asus recovery utility. 
 
 OpenWRT 21.02.3 For the Totolink LR_1200 also works with dual band WIFI with some caveats:
 -5GHz is slow (~20MBit) and requires 20/40Mhz channel width
 -Switch config is wrong, LAN1 is WAN and WAN in LAN1. This can be reconfigured in Networks->Switch and Swap the port between VLAN1 and VLAN 2
 -No LED's (yet)
+-USB Works
 
 
 ****<<<<<>>>>>****
